@@ -1,7 +1,6 @@
 const http = require('http')
 const path = require('path')
 
-const chalk   = require('chalk')
 const express = require('express')
 const app     = express()
 const server  = http.createServer(app)
@@ -42,4 +41,4 @@ io.on('connection', (socket)=>{
 })
 
 
-server.listen(port, ()=>{ console.log('Server is Running')});
+server.listen(port, ()=>{ console.log('Server is Running on http://localhost:3000')});
