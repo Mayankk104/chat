@@ -2,6 +2,7 @@
 
 ### Preview
 ![Desktop](/src/assets/Desktop.gif)
+&nbsp;
 ![Joining](/src/assets/Joining.gif)
 ![Texting](/src/assets/Texting.gif)
 
