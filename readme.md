@@ -1,6 +1,9 @@
 # Chat
 ### Built with SocketIO And Express
 
+![Joining](/assets/Joining.gif)
+![Received](/assets/Received.gif)
+
 ### Features
 - It is a _stateless_ chatting application
 - Which doesn't requrier signup/signin
