@@ -1,13 +1,9 @@
 # Chat
 ### Built with SocketIO And Express
 
-![Joining](/src/assets/Joining.gif) ![Received](/src/assets/Received.gif)
-
 ![Joining](/src/assets/Joining.gif)
-![Received](/src/assets/Received.gif)
+![Joining](/src/assets/Joining.gif)
 
-![Joining](src/assets/Joining.gif)
-![Received](src/assets/Received.gif)
 
 ### Features
 - It is a _stateless_ chatting application
