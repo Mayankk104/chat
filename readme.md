@@ -5,7 +5,7 @@
 ![Joining](/src/assets/Joining.gif)
 ![Texting](/src/assets/Texting.gif)
 
- Desktop view\
+### Desktop view\
 ![Desktop](/src/assets/Desktop.gif)
 
 ## Features
