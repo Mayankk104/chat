@@ -2,7 +2,7 @@
 ### Built with SocketIO And Express
 
 ![Joining](/src/assets/Joining.gif)
-![Joining](/src/assets/Joining.gif)
+![Texting](/src/assets/Texting.gif)
 
 
 ### Features
