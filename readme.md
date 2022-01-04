@@ -1,11 +1,12 @@
 # Chat
-### Built with SocketIO And Express
 
+### Preview
+![Desktop](/src/Desktop.gif)
 ![Joining](/src/assets/Joining.gif)
 ![Texting](/src/assets/Texting.gif)
 
-
 ### Features
+- Built with SocketIO And NodeJs
 - It is a _stateless_ chatting application
 - Which doesn't requrier signup/signin
 - In which one can join with a unique username, and a room name which user enters.
