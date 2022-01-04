@@ -1,7 +1,7 @@
 # Chat
 
 ### Preview
-![Desktop](/src/assests/Desktop.gif)
+![Desktop](/src/assets/Desktop.gif)
 ![Joining](/src/assets/Joining.gif)
 ![Texting](/src/assets/Texting.gif)
 
