@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/app",
+    "start": "node build/app",
+    "postinstall": "tsc",
     "dev": "nodemon src/app.ts"
   },
   "keywords": [],
