@@ -13,4 +13,4 @@
 - start editing
 
 
-### Link: [Chat](https://letchatnode.herokuapp.com/)
+### Link: [Chat](https://letschatwithus.herokuapp.com/)
